@@ -12,7 +12,7 @@ See `complete` branch for answers.
 
 # git add
 
-The command `**git add**` transfers the file or files of the project to the staging area.
+The command **`git add`** transfers the file or files of the project to the staging area.
 
 Examples
 ```git
@@ -23,6 +23,6 @@ git add .
 ```
 1. Add must be followed by  
 .. The name of the file that you want to put in the staging area.   
-.. A dot that  means all the files. 
+.. A dot (.) that  means all the files. 
 2. Once the files are in the staging area, you must commit the changes with the command git commit. 
 
