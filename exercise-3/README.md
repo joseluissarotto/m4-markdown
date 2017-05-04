@@ -9,3 +9,20 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# git add
+
+The command **-git add-** transfer the file or files of the project to the staging area.
+
+Examples
+```git
+git add "myfile"
+
+git add .
+
+```
+1. Add must be followed by
+.. The name of the file that you want to put in the staging area
+.. A dot that  means all the files.
+2. Once the files are in the staging area, you must commit the changes with the command git commit.
+
