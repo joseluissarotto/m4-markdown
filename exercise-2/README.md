@@ -7,8 +7,8 @@ In the space below, make a three column table of the current courses you are tak
 See `complete` branch for answers.
 
 
-| **Course number** | __Course title__     |   Instructor  |
+| Course number | Course title     |   Instructor  |
 |-------------------|----------------------|---------------|
-|201| Technical foundations of Informatics |Michael Freeman and Joel Ross |
-|202|Python | Mr. John Smith |
+|**201**| __Technical foundations of Informatics__ |Michael Freeman and Joel Ross |
+|**202**|__Python__ | Mr. John Smith |
 
