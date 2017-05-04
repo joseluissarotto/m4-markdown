@@ -9,6 +9,6 @@ See `complete` branch for answers.
 
 | Course number | Course title     |   Instructor  |
 |-------------------|----------------------|---------------|
-|**201**| __Technical foundations of Informatics__ |Michael Freeman and Joel Ross |
-|**202**|__Python__ | Mr. John Smith |
+|**201**| _Technical foundations of Informatics_ |Michael Freeman and Joel Ross |
+|**202**|_Python_ | Mr. John Smith |
 
